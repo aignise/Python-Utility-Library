@@ -5,11 +5,10 @@ The `advanced_python_utils` library is a robust collection of advanced utilities
 ## Table of Contents
 
 1. [Algorithms](#algorithms)
-2. [Data Structures](#data-structures)
-3. [Text Processing](#text-processing)
-4. [System](#system)
-5. [Design Patterns](#design-patterns)
-6. [Concurrency](#concurrency)
+2. [Text Processing](#text-processing)
+3. [System](#system)
+4. [Design Patterns](#design-patterns)
+5. [Concurrency](#concurrency)
 
 ---
 
@@ -21,17 +20,6 @@ Delve into the core algorithmic strategies ranging from sorting and searching to
 - **`searching.py`**: Contains key searching algorithms for structured data.
 - **`dynamic_programming.py`**: Focuses on breaking complex problems into simpler overlapping sub-problems.
 - **`backtracking.py`**: Uses a trial-and-error approach to solve computational problems.
-
----
-
-### Data Structures
-
-Explore advanced data structures that offer optimized solutions for specific problems.
-
-- **`advanced_trees.py`**: Implements AVL and Red-Black trees.
-- **`heaps.py`**: Contains binary and Fibonacci heap operations.
-- **`disjoint_set.py`**: Focuses on union-find operations for set management.
-- **`trie.py`**: Provides trie operations and real-world applications.
 
 ---
 
