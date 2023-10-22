@@ -1,4 +1,4 @@
-# Advanced Python Utils Library
+# Python Utility Library
 
 The `advanced_python_utils` library is a robust collection of advanced utilities, algorithms, and patterns tailored for developers aiming to enhance their Python proficiency and tackle complex computational challenges. This library encapsulates a wide range of topics, from algorithmic strategies to system-level utilities.
 
