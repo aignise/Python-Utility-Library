@@ -1,4 +1,4 @@
-# Algorithms Utility Library
+# Algorithms Utility Library  
 
 The `algorithms` directory is a curated set of classical algorithms that are vital in various computational problems. These algorithms serve as building blocks for constructing more complex algorithms or solutions.
 
